@@ -1,0 +1,39 @@
+c:\users\luca\documents\visual studio 2015\Projects\Lernmaschine_V4\Lernmaschine_V4\bin\Debug\Lernmaschine_V4.exe.config
+c:\users\luca\documents\visual studio 2015\Projects\Lernmaschine_V4\Lernmaschine_V4\bin\Debug\Lernmaschine_V4.exe
+c:\users\luca\documents\visual studio 2015\Projects\Lernmaschine_V4\Lernmaschine_V4\bin\Debug\Lernmaschine_V4.pdb
+c:\users\luca\documents\visual studio 2015\Projects\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.csprojResolveAssemblyReference.cache
+c:\users\luca\documents\visual studio 2015\Projects\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.Form1.resources
+c:\users\luca\documents\visual studio 2015\Projects\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.Properties.Resources.resources
+c:\users\luca\documents\visual studio 2015\Projects\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.csproj.GenerateResource.Cache
+c:\users\luca\documents\visual studio 2015\Projects\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.exe
+c:\users\luca\documents\visual studio 2015\Projects\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.pdb
+E:\pt xml\Lernmaschine_V4\Lernmaschine_V4\bin\Debug\Lernmaschine_V4.exe.config
+E:\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.exe
+E:\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.pdb
+E:\pt xml\Lernmaschine_V4\Lernmaschine_V4\bin\Debug\Lernmaschine_V4.exe
+E:\pt xml\Lernmaschine_V4\Lernmaschine_V4\bin\Debug\Lernmaschine_V4.pdb
+E:\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.csprojResolveAssemblyReference.cache
+E:\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.Form1.resources
+E:\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.Properties.Resources.resources
+E:\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.csproj.GenerateResource.Cache
+H:\pt xml\Lernmaschine_V4\Lernmaschine_V4\bin\Debug\Lernmaschine_V4.exe.config
+H:\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.exe
+H:\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.pdb
+H:\pt xml\Lernmaschine_V4\Lernmaschine_V4\bin\Debug\Lernmaschine_V4.exe
+H:\pt xml\Lernmaschine_V4\Lernmaschine_V4\bin\Debug\Lernmaschine_V4.pdb
+H:\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.csprojResolveAssemblyReference.cache
+H:\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.Form1.resources
+H:\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.Properties.Resources.resources
+H:\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.csproj.GenerateResource.Cache
+C:\Users\LUCA\Documents\13Klasse\PT\pt xml\Lernmaschine_V4\Lernmaschine_V4\bin\Debug\Lernmaschine_V4.exe.config
+C:\Users\LUCA\Documents\13Klasse\PT\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.exe
+C:\Users\LUCA\Documents\13Klasse\PT\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.pdb
+C:\Users\LUCA\Documents\13Klasse\PT\pt xml\Lernmaschine_V4\Lernmaschine_V4\bin\Debug\Lernmaschine_V4.exe
+C:\Users\LUCA\Documents\13Klasse\PT\pt xml\Lernmaschine_V4\Lernmaschine_V4\bin\Debug\Lernmaschine_V4.pdb
+C:\Users\LUCA\Documents\13Klasse\PT\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.csprojResolveAssemblyReference.cache
+C:\Users\LUCA\Documents\13Klasse\PT\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.Form1.resources
+C:\Users\LUCA\Documents\13Klasse\PT\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.Properties.Resources.resources
+C:\Users\LUCA\Documents\13Klasse\PT\pt xml\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.csproj.GenerateResource.Cache
+C:\Users\LUCA\Desktop\GitHub\Lernmaschine_V4\Lernmaschine_V4\bin\Debug\Lernmaschine_V4.exe.config
+C:\Users\LUCA\Desktop\GitHub\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.exe
+C:\Users\LUCA\Desktop\GitHub\Lernmaschine_V4\Lernmaschine_V4\obj\Debug\Lernmaschine_V4.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lernmaschine>
+  <Fach Name="Sport">
+    <Kasten Nr="1">
+      <Karteikarte>
+        <Vorderseite>NBA</Vorderseite>
+        <Rueckseite>National Basketball League</Rueckseite>
+      </Karteikarte>
+      <Karteikarte>
+        <Vorderseite>NFL</Vorderseite>
+        <Rueckseite>National Football League</Rueckseite>
+      </Karteikarte>
+      <Karteikarte>
+        <Vorderseite>MLB</Vorderseite>
+        <Rueckseite>National Baseball League</Rueckseite>
+      </Karteikarte>
+    </Kasten>
+    <Kasten Nr="2">
+      <Vorderseite>NHL</Vorderseite>
+      <Rueckseite>National Hockey League</Rueckseite>
+    </Kasten>
+    <Kasten Nr="3" />
+    <Kasten Nr="4" />
+    <Kasten Nr="5" />
+  </Fach>
+  <Fach Name="Geschichte">
+    <Kasten Nr="6">
+      <Vorderseite>1945</Vorderseite>
+      <Rueckseite>Ende 2 Weltkrieg</Rueckseite>
+    </Kasten>
+    <Kasten Nr="7" />
+  </Fach>
+</Lernmaschine>
